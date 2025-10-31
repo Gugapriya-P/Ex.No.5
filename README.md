@@ -1,9 +1,9 @@
 
 # **EXP 5: Comparative Analysis of Different Prompting Strategies with Test Scenarios**
 
-**Date:** 05.09.2025
-## Nmae:Gugapriya P
-**Register Number:** 212223060075
+## Date : 05.09.2025
+## Name : Gugapriya P
+## Register Number : 212223060075
 
 ---
 
