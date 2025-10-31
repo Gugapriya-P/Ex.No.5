@@ -14,7 +14,7 @@ To compare the effectiveness of naïve (broad/unstructured) prompts with refined
 
 ## **AI Tool Used**
 
-* ChatGPT (OpenAI)
+* Google Gemini
 
 ---
 
@@ -57,6 +57,8 @@ To compare the effectiveness of naïve (broad/unstructured) prompts with refined
 * Only for very **simple queries**, naïve prompts were acceptable.
 
 ---
+
+<img width="518" height="440" alt="image" src="https://github.com/user-attachments/assets/bac89b2d-2ce9-41ab-9f8c-e610c250349e" />
 
 ## **Conclusion**
 
